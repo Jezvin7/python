@@ -1,0 +1,40 @@
+Hey there,Lets play a Guess game
+First Let me take a number .
+
+give me number greater than 50: 55
+I have taken a number between them .Now Guess 
+Guess a number betwwen 1 and 55:45
+sorry,Guessagain,TOO high       
+Guess a number betwwen 1 and 55:34
+sorry,Guessagain,TOO high       
+Guess a number betwwen 1 and 55:20
+sorry,Guess agian,Too low       
+Guess a number betwwen 1 and 55:30
+sorry,Guess agian,Too low
+Guess a number betwwen 1 and 55:34
+sorry,Guessagain,TOO high
+Guess a number betwwen 1 and 55:33
+sorry,Guessagain,TOO high
+Guess a number betwwen 1 and 55:32
+sorry,Guessagain,TOO high
+Guess a number betwwen 1 and 55:31
+yay!,congrats ,you have guessed the number 31 correctly
+Now it's time to you to take a number and let me Guess
+Is 18 too high [H],too low [L] or correct [c]:::l
+Is 35 too high [H],too low [L] or correct [c]:::l
+Is 557 too high [H],too low [L] or correct [c]:::h
+Is 71 too high [H],too low [L] or correct [c]:::l
+Is 314 too high [H],too low [L] or correct [c]:::h
+Is 234 too high [H],too low [L] or correct [c]:::h
+Is 90 too high [H],too low [L] or correct [c]:::l
+Is 215 too high [H],too low [L] or correct [c]:::h
+Is 158 too high [H],too low [L] or correct [c]:::h
+Is 151 too high [H],too low [L] or correct [c]:::h
+Is 139 too high [H],too low [L] or correct [c]:::h
+Is 116 too high [H],too low [L] or correct [c]:::h
+Is 105 too high [H],too low [L] or correct [c]:::h
+Is 95 too high [H],too low [L] or correct [c]:::l
+Is 98 too high [H],too low [L] or correct [c]:::l
+Is 99 too high [H],too low [L] or correct [c]:::l
+Is 100 too high [H],too low [L] or correct [c]:::c
+yey! I have Guessed your number 100,correctly
